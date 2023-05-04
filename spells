@@ -1,0 +1,79 @@
+firebreath
+usable by: Argonians, pyromancers
+attunement: 2
+keywords: none
+uses: 3
+casttime: action
+effects: deal 3d4 fire damage to a cone of enemies in front of the caster,
+the cone is 5m long and ends in a circle with a diameter of 5m.
+
+fireball
+usable by: pyromancers, wizards
+attunement: 3
+keywords: none
+uses: 3
+casttime: action
+effects: deal 3d4 firedamage to an orb of enemies, the orb has a radius of 3 meters.
+
+heal
+usable by: elves, bards
+attunement: 2
+keywords: none
+uses: 10
+casttime: action and bonusaction, keep focus
+effects: heal 3d4 vitality and 2d8 position, the caster must be able to touch the body of the person being healed
+and remain focused for 1 turn.
+
+inspire
+usable by: bards
+attunement: 1
+keywords: none
+uses: 8
+casttime: bonus action
+effects: choose 1:
+-boost +3 dex, str or int for someone within 8m for 15 minutesthis spell cannot be cast on a target that is already under it's effect.
+-boost +10 position (this can go beyond the max position of the targetthis spell cannot be cast on a target that is already under it's effect.
+However, once lost the target's position won't go that high again)
+-re-roll 1 roll
+
+magic hand
+usable by: wizards
+attunement: 1
+keywords: none
+uses: 5
+casttime: keep focus
+effects: gain a magic hand that can manipulate objects up to 10m, if the hand were to make an attack,
+-4 dex, -6 str for that attack.
+
+magic arrow
+usable by: wizards
+attunement: 1
+keywords: none
+uses: 15
+casttime: 1 bonus action
+effects: deal 2d8 damage to a target up to 20m away.
+
+magic spear
+usable by: wizards
+attunement: 2
+keywords: throwing spell
+uses: 5
+casttime: action
+effects: deal 3d8 damage to a target up to 30m away.
+
+mockery
+usable by: bard
+attunement: 2
+keywords: cha duel
+uses: 3
+casttime: bonus action
+effects: -5 on <stat> of target within hearing distance, this spell cannot be cast on a target that is already under it's effect.
+
+light
+usable by: wizard
+attunement: 1
+keywords: none
+uses: 5
+casttime: bonus action
+effects: create a glowing light that can illuminate things up to 10m away, requires focus to keep existing.
+

@@ -77,6 +77,8 @@ on a succes:
 	(succes and failure dice are determined by the weapon used)
 	if the roll is a 20: critical succes: allocate 3d10 damage to the opponent.
 
+(if the player can explain why and both dex and str checks succeed, the attack may bypass position and deal vitality damage)
+
 charge:
 Entities can declare a charge on others if they are in ranged.
 take a dex check, on a failure, take a normal attack, on a succes, take an attack with both dex and str checks at an advantage (even if the dex check fails). In both cases the Entity that declared a charge is now in melee range of the entity it charged to.
@@ -94,11 +96,26 @@ on a succes: the entity is hidden again
 in short: in combat, everyone gets a turn in the predetermined order, first, they regain 1d8 position , then they can use their action and bonus action and prepare their reaction, then it is the next person's turn, this repeats until the players are out of combat. (extra note: the action and bonus action/reaction may be combined to do 1 action consiting of 2 parts)
 
 SPELLS:
-A spellcaster can now many spells but only certain can be active and ready to cast. When resting a spellcaster may choose which spells they want to be active and inactive, however, the total attunement cost of active spell may never exceed the players attunement.
-a spell has a certain number of uses (determined by the spell), each time a spell is cast, subract one from it's uses. When a spell's number of uses is 0 it can no longer be cast (spell uses can be regained by resting).
+A spellcaster can now many spells but only certain can be active and ready to cast.
+When resting a spellcaster may choose which spells they want to be active and inactive.
+However, the total attunement cost of active spell may never exceed the players attunement.
+a spell has a certain number of uses (determined by the spell), each time a spell is cast,
+subract one from it's uses. When a spell's number of uses is 0 it can no longer be cast
+(spell uses can be regained by resting).
+Unless stated otherwise, the spell effects are resolved immediatly without an ability check)
+
 certain spell keywords:
 throwing spell, the caster must succeed a dex check for this spell to take effect
 <stat> dependent, the caster must take a <stat> check, on a fail or succes the spell has different effects
+<stat> duel, make a <stat> check against the target
+
+Some spells require the caster to keep focus, a casters focus is broken when: they take vitality or position damage,
+they lost sight of their spell,...
+
+some spells are only usable by some classes or races, this is shown on the spell profile.
+
+MIGHTPOINTS:
+A boss can have an amount of might points, these can be used to re-roll certain rolls or bend the rules a little if it were to make the bossfight more enticing
 
 DEATH
 when someone's vitality is reduced to 0 or below, this person is at Death's gate, they can no longer do anything but are not yet dead. If someone helps them (dex DC:15 ability check) they return with 1 vitality, if someone delivers a succesfull blow to them or they are left alone for 15 minutes, they completely die and the death do not come back.
