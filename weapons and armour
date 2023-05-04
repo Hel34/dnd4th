@@ -1,0 +1,144 @@
+WEAPONS
+There are 3 classes of weapons, each has certain properties:
+Heavy: requires 2 hands to be used, takes an action to attack with, at least 14 str is needed to use these weapons
+Medium: requires 1 hand to be used, takes an action or reaction to attack with (can only be wielded together with a light weapon), at least 6str is needed to use these weapons
+Light: requires 1 hand, takes an action/bonus action/reaction, can be thrown, when thrown, add double the str bonus when making a strength check.
+
+
+Light weapons:
+Dagger:
+dex bonus: +5
+str bonus: +0
+failure dice: 2d4
+succes dice: 2d6
+extra:
+
+Parrying dagger:
+dex bonus: +5
+str bonus: +0
+failure dice: 1d6
+succes dice: 2d4
+extra:  gives +3 position, when the user uses their reaction to parry an attack, make a dex check against the enemy, on a win: the attacker gets 2d10 posture damage, on the victims next turn, they get no position back.
+
+Tomahawk:
+dex bonus: +2
+str bonus: +0
+failure dice: 2d6
+succes dice: 2d8
+extra: when thrown: has a +5 str and dex bonus.
+
+Mailbreaker:
+dex bonus: +5
+str bonus: +5
+failure dice: 2d8
+succes dice: 2d10
+extra: on a succesfull dex check, when the damage is done to vitality, double it
+	when the damage is done to posture, halve it. on the victims next turn, they get no 	position back.
+
+Caestus:
+dex bonus: +5
+str bonus: 0
+failure dice: 1d6
+succes dice: 4
+extra: on a succesfull hit (both str and dex check succeeded) and when dealing posture damage: do 5d4 posture damage instead, on the victims next turn, they get no position back
+
+Buckler (shield):
+dex bonus: 0
+str bonus: 0
+failure dice: 1d6
+succes dice: 1d6
+extra: gives +10 position
+
+
+Medium weapons
+Straight sword:
+dex bonus: +3
+str bonus: +3
+failure dice: 2d6
+succes dice: 2d8
+extra: gives +3 position
+
+Club:
+dex bonus: +3
+str bonus: +5
+failure dice: 3d6
+succes dice: 3d8
+extra: when the damage is done to vitality, half it.
+
+Spear:
+dex bonus: +8
+str bonus: 0
+failure dice: 2d6
+succes dice: 2d8
+extra:
+
+Battle axe:
+dex bonus: +2
+str bonus: +6
+failure dice: 2d6
+succes dice: 2d10
+extra:
+
+heavy shield (shield):
+dex bonus: -2
+str bonus: 0
+failure dice: 1d6
+succes dice: 1d6
+extra: gives +15 position
+
+
+Heavy weapons:
+Claymore:
+dex bonus: +2
+str bonus: +5
+failure dice: 3d6
+succes dice: 3d8
+extra: +3 position
+
+Zweihänder:
+dex bonus: +7
+str bonus: +3
+failure dice: 4d6
+succes dice: 4d8
+extra: on a succesfull dex check, when the damage is done to vitality, double it.
+ 	when the damage is done to posture, halve it. on the victims next turn, they get no 	position back
+
+Big club:
+dex bonus: 0
+str bonus: +7
+failure dice: 4d6
+succes dice: 4d8
+extra: when the damage is done to vitality, half it.
+
+Heavy axe:
+dex bonus: +3
+str bonus: +7
+failure dice: 3d6
+succes dice: 3d10
+extra:
+
+extremely heavy shield (shield):
+dex bonus: -5
+str bonus: 0
+failure dice: 1d8
+succes dice: 2d8
+extra: gives +20 position
+
+Bow (ranged):
+dex bonus: 0
+str bonus: 0
+failure dice: 1d8
+succes dice: 2d6
+extra: if the target has no shield, on a succesfull dex check, the damage always goes to vitality
+
+Harnassen:
+none: 0str needed, + dex bonus position
+light: 6str needed, +dex bonus/2 (round down) + 5 position
+medium: 8str needed, +10 position
+heavy: 12str needed, +15 position, -2 dex
+extremely heavy: 16str needed, +20 position, -5 dex
+
+
+
+
+
