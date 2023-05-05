@@ -16,12 +16,21 @@ casttime: action
 effects: deal 3d4 firedamage to an orb of enemies, the orb has a radius of 3 meters.
 
 heal
-usable by: elves, bards
+usable by: elves
 attunement: 2
+keywords: none
+uses: 5
+casttime: action and bonusaction, keep focus
+effects: heal 3d4 vitality and 3d8 position, the caster must be able to touch the body of the person being healed
+and remain focused for 1 turn.
+
+lesser heal
+usable by: elves, bards
+attunement: 1
 keywords: none
 uses: 10
 casttime: action and bonusaction, keep focus
-effects: heal 3d4 vitality and 2d8 position, the caster must be able to touch the body of the person being healed
+effects: heal 1d4 vitality and 1d8 position, the caster must be able to touch the body of the person being healed
 and remain focused for 1 turn.
 
 inspire
