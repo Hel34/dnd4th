@@ -110,7 +110,7 @@ throwing spell, the caster must succeed a dex check for this spell to take effec
 <stat> duel, make a <stat> check against the target
 
 Some spells require the caster to keep focus, a casters focus is broken when: they take vitality or position damage,
-they lost sight of their spell,...
+they lost sight of their spell, doing no other action,...
 
 some spells are only usable by some classes or races, this is shown on the spell profile.
 
