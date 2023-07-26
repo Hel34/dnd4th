@@ -13,14 +13,14 @@ attunement: 3
 keywords: none
 uses: 3
 casttime: action
-effects: deal 3d4 vitality firedamage to an orb of enemies, the orb has a radius of 3 meters.
+effects: deal 3d4 vitality fire damage to an orb of enemies, the orb has a radius of 3 meters.
 
 heal
 usable by: elves
 attunement: 2
 keywords: none
 uses: 5
-casttime: action and bonusaction, keep focus
+casttime: action and bonus action, keep focus
 effects: heal 3d4 vitality and 3d8 position, the caster must be able to touch the body of the person being healed
 and remain focused for 1 turn.
 
@@ -40,8 +40,8 @@ keywords: none
 uses: 8
 casttime: bonus action
 effects: choose 1:
--boost +3 dex, str or int for someone within 8m for 15 minutesthis spell cannot be cast on a target that is already under it's effect.
--boost +10 position (this can go beyond the max position of the targetthis spell cannot be cast on a target that is already under it's effect.
+-boost +3 dex, str or int for someone within 8m for 15 minutes this spell cannot be cast on a target that is already under it's effect.
+-boost +10 position (this can go beyond the max position of the target this spell cannot be cast on a target that is already under it's effect.
 However, once lost the target's position won't go that high again)
 -re-roll 1 roll can be used out of turn)
 

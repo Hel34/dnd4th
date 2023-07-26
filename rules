@@ -22,19 +22,19 @@ int: trying to understand what something (tech/spell/...) is, perception, ...
 wis: reading others, insight in situations (is this a good plan?) ,...
 con: resisting exhaustion
 
-ability bonus: (abilityscore-10)/2
+ability bonus: (ability score-10)/2
 
 ACTIONS:
 Ability checks:
-The dm determines the difficulity class for this action, then announces which ability must be used for this action (if multiple are appropriate, the dm announces them all, the player doing the action can choose which they use), the dm then roles 1d20, if the result + the ability bonus+any other bonus, is higher than or equal to the difficulity class, the action succeeds, else, the action fails. A roll of 1 always fails.
-Difficulity Class (DC):
+The dm determines the difficulty class for this action, then announces which ability must be used for this action (if multiple are appropriate, the dm announces them all, the player doing the action can choose which they use), the dm then roles 1d20, if the result + the ability bonus+any other bonus, is higher than or equal to the difficulity class, the action succeeds, else, the action fails. A roll of 1 always fails.
+Difficulty Class (DC):
 very easy: 5
 easy: 10
 medium: 15
 hard: 20
 very hard: 25
 nearly impossible: 30
-{example: Big Man John wishes to scare an enemy by masacring a dead enemy, the dm determines (but does not anounce) that since the enemy is a scaredy cat, the DC will be 5 (easy), then announces that Big Man John can either use strength or charisma (since it's a show of force). As Big Man John's strength is higher than his charisma, he chooses to use his strenth. He rolls a 3. His strength is 14, (14-10)/2 = 2. 3+2=5 so he passes the ability check, the enemy is frightened.}
+{example: Big Man John wishes to scare an enemy by massacring a dead enemy, the dm determines (but does not anounce) that since the enemy is a scaredy cat, the DC will be 5 (easy), then announces that Big Man John can either use strength or charisma (since it's a show of force). As Big Man John's strength is higher than his charisma, he chooses to use his strenth. He rolls a 3. His strength is 14, (14-10)/2 = 2. 3+2=5 so he passes the ability check, the enemy is frightened.}
 
 Taking an ability check at an advantage: a rule may say that you can take an ability check at an advantage, in this case, roll 2d20, use the result the most in your favour.
 Taking an ability check at a disadvantage: a rule may say that you can take an ability check at a disadvantage, in this case, roll 2d20, use the result the least in your favour.
@@ -52,61 +52,61 @@ As combat often has a big role in campaigns, it has it own rules.
 In combat, every entity engaged in combat takes turns moving and doing an action.
 The order is determined at the start of combat:
 in case of a frontal attack: everyone takes a dex ability check, the highest result goes first in, the lowest last, in case of a tie between two players they can choose which one goes first, in case of a tie between a player and an enemy the player goes first, in case of a tie between two enemies, the ones with the highest dex goes first (if there still is a tie, the dm can decide the order).
-in case of a surprise attack: everyone takes an int ability check, entities that get surpised take it at a dissadvantage, the highest result goes first in, the lowest last, in case of a tie between two players they can choose which one goes first, in case of a tie between a player and an enemy the player goes first, in case of a tie between two enemies, the ones with the highest dex goes first (if there still is a tie, the dm can decide the order).
+in case of a surprise attack: everyone takes an int ability check, entities that get surprised take it at a disadvantage, the highest result goes first in, the lowest last, in case of a tie between two players they can choose which one goes first, in case of a tie between a player and an enemy the player goes first, in case of a tie between two enemies, the ones with the highest dex goes first (if there still is a tie, the dm can decide the order).
 in combat, everyone gets an action, bonus action and reaction:
 the action can be used to do something large (an attack, running to somewhere or some spell require this),
 the bonus action can be used to do something small (an attack with a light weapon, consuming something, pulling a lever,...)
 the reaction can be used when it isn't the person's turn, however, they must have prepared (e.g: a player can say: "I prepare to stab them with my spear if that enemy backs off", when then that enemy moves backwards, the player can try to stab them with their spear). A reaction MUST have been prepared to be used!
-Before taking their actions, the position of the entity must be determinded, this can be:
+Before taking their actions, the position of the entity must be determined, this can be:
 in melee: if the entity stands face to face in close range against an opponent
 on range: if the entity stands face to face at a distance from an opponent
 hidden: if all opponents are do not know where the entity is. (not bene: the entity can be hidden even if an opponents thinks it knows where the entity is, as long as they think wrongly)
 The position will determine what the player may and may not do.
-taking damage: when taking damage (unless stated otherwise) first substract the damage from the position of the entity being attacked, if the entity's position is 0, substract the damage from the hp of the entity. 1 attack can only substract hp or position, not both. 'e.g. if someone were to do on 7 damage on a creator with 5 position and 2 hp, the creature would lose 5 position and no hp). A ranged attack always attacks immediatly on vitality unlesss the target has a shield.
+taking damage: when taking damage (unless stated otherwise) first subtract the damage from the position of the entity being attacked, if the entity's position is 0, substract the damage from the hp of the entity. 1 attack can only substract hp or position, not both. 'e.g. if someone were to do on 7 damage on a creator with 5 position and 2 hp, the creature would lose 5 position and no hp). A ranged attack always attacks immediatly on vitality unlesss the target has a shield.
 
 attack:
 The entity takes a dex check with the weapon dex bonus against the victim (if the entity is in melee and using a ranged weapon: take it at a dissadvantage):
 on a fail:
-	take a str check with the weapon str bonus at a dissadvantage against the victim	on a fail: allocate 1d4 damage to the opponent.
-	on a succes: allocate 1d6 damage to the opponent.
+	take a str check with the weapon str bonus at a disadvantage against the victim	on a fail: allocate 1d4 damage to the opponent.
+	on a success: allocate 1d6 damage to the opponent.
 
-on a succes:
+on a success:
 	take a str check with the weapon str bonus (DC 13):
 	on a fail: allocate failure dice damage to the opponent.
-	on a succes: allocate succes dice damage to the opponent.
-	(succes and failure dice are determined by the weapon used)
-	if the roll is a 20: critical succes: allocate 3d10 damage to the opponent.
+	on a success: allocate success dice damage to the opponent.
+	(success and failure dice are determined by the weapon used)
+	if the roll is a 20: critical success: allocate 3d10 damage to the opponent.
 
 (if the player can explain why and both dex and str checks succeed, the attack may bypass position and deal vitality damage)
 
 charge:
 Entities can declare a charge on others if they are in ranged.
-take a dex check, on a failure, take a normal attack, on a succes, take an attack with both dex and str checks at an advantage (even if the dex check fails). In both cases the Entity that declared a charge is now in melee range of the entity it charged to.
+take a dex check, on a failure, take a normal attack, on a success, take an attack with both dex and str checks at an advantage (even if the dex check fails). In both cases the Entity that declared a charge is now in melee range of the entity it charged to.
 
 sneak attack:
 when hidden an entity may use a sneak attack, to do this,
-take a dex  check with the weapon dex bonus (against the oponents int):
+take a dex  check with the weapon dex bonus (against the opponents int):
 	on a fail: proceed with the str check of normal attack
-	on a succes: allocate 2d6 damage to the opponent's vitality.
+	on a success: allocate 2d6 damage to the opponent's vitality.
 take a dex check against the enemies int (at a disadvantage if the target entity was clearly visible to other entities of the same group, at an advantage if the target was isolated),
 on a fail: the entity is now in melee with the target
-on a succes: the entity is hidden again
+on a success: the entity is hidden again
 
 
-in short: in combat, everyone gets a turn in the predetermined order, first, they regain 1d8 position , then they can use their action and bonus action and prepare their reaction, then it is the next person's turn, this repeats until the players are out of combat. (extra note: the action and bonus action/reaction may be combined to do 1 action consiting of 2 parts)
+in short: in combat, everyone gets a turn in the predetermined order, first, they regain 1d8 position , then they can use their action and bonus action and prepare their reaction, then it is the next person's turn, this repeats until the players are out of combat. (extra note: the action and bonus action/reaction may be combined to do 1 action consisting of 2 parts)
 
 SPELLS:
 A spellcaster can now many spells but only certain can be active and ready to cast.
 When resting a spellcaster may choose which spells they want to be active and inactive.
 However, the total attunement cost of active spell may never exceed the players attunement.
 a spell has a certain number of uses (determined by the spell), each time a spell is cast,
-subract one from it's uses. When a spell's number of uses is 0 it can no longer be cast
+subtract one from it's uses. When a spell's number of uses is 0 it can no longer be cast
 (spell uses can be regained by resting).
-Unless stated otherwise, the spell effects are resolved immediatly without an ability check)
+Unless stated otherwise, the spell effects are resolved immediately without an ability check)
 
 certain spell keywords:
 throwing spell, the caster must succeed a dex check for this spell to take effect
-<stat> dependent, the caster must take a <stat> check, on a fail or succes the spell has different effects
+<stat> dependent, the caster must take a <stat> check, on a fail or success the spell has different effects
 <stat> duel, make a <stat> check against the target
 
 Some spells require the caster to keep focus, a casters focus is broken when: they take vitality or position damage,
