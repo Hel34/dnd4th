@@ -1,0 +1,46 @@
+guns use the mechanics of spells, with a few differences:
+-if a gun is the ONLY spell in use of a player,
+it has no attunement cost.
+-Guns have an extra property: reach, which consists of 4 distances:
+    -The first number is the distance in which a hit is guaranteed.
+    -The second is the range in which a dexterity throw of DC10 is needed.
+    -The 3rd is the range in which a dexterity throw of DC15 is needed.
+    -the 4th is the maximum range, beyond this no hit is possible
+Otherwise (unless the rules of the gun contradicts them)
+the same rules as for spells apply.
+
+flintlock light pistol
+usable by: everyone
+attunement: 3
+keywords: GUN
+uses: 6
+casttime: bonus action
+reach: 2m, 3m, 4m, 6m
+effects: deal 2d6 damage
+
+flintlock medium pistol
+usable by: everyone
+attunement: 2
+keywords: GUN
+uses: 4
+casttime: bonus action
+reach: 3m, 5m, 6m, 10m
+effects: deal 2d6 damage
+
+Dual barreled pistol
+usable by: everyone
+attunement: 3
+keywords: GUN
+uses: 2
+casttime: action
+reach: 2m, 3m, 4m, 6m
+effects: deal 4d6 damage
+
+flintlock rifle
+usable by: everyone
+attunement: 5
+keywords: GUN
+uses: 1
+casttime: action
+reach: 4m, 6m, 10m, 30m
+effects: deal 4d6 damage
