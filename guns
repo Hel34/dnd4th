@@ -43,4 +43,4 @@ keywords: GUN
 uses: 1
 casttime: action
 reach: 4m, 6m, 10m, 30m
-effects: deal 4d6 damage
+effects: deal 4d10 damage
