@@ -18,7 +18,7 @@ dex bonus: +5
 str bonus: +0
 failure dice: 1d6
 succes dice: 2d4
-extra:  gives +3 position, when the user uses their reaction to parry an attack, make a dex check against the enemy, on a win: the attacker gets 2d10 posture damage, on the victims next turn, they get no position back.
+extra:  parry: 2d10 damage
 
 Tomahawk:
 dex bonus: +2

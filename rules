@@ -92,6 +92,9 @@ take a dex check against the enemies int (at a disadvantage if the target entity
 on a fail: the entity is now in melee with the target
 on a success: the entity is hidden again
 
+a special reaction: parrying, if someone hits someone who has prepared to parry, if the dex roll fails,
+the victim does another dex roll against the attacker, if the victim wins: the attacker gains the parry (stability) damage,
+if the victim fails, nothing happens and the attack ends without doing damage.
 
 in short: in combat, everyone gets a turn in the predetermined order, first, they regain 1d8 position , then they can use their action and bonus action and prepare their reaction, then it is the next person's turn, this repeats until the players are out of combat. (extra note: the action and bonus action/reaction may be combined to do 1 action consisting of 2 parts)
 
