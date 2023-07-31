@@ -25,8 +25,8 @@ dexterity: 6
 strength: 5
 charisma: 4
 intelligence: 5
-wisdom: 4
-constitution: 6
+wisdom: 6
+constitution: 4
 
 Clerk:
 stability: 0
@@ -122,7 +122,7 @@ survival (wis)
 When creating a character: level up immediatly to level 1 and gain 2 proficiencies
 
 leveling up:
-throw a d6, this is how many points you get for leveling up, with one of such points you can increas
+throw a d6 (except for lvl1: throw 3d6), this is how many points you get for leveling up, with one of such points you can increas
 vitality, attunement, dexterity, strength, charisma, intelligence, wisdom, constitution by one,
 for 2 points you can increase your stability by 1.
 Additionally: on level 2 and 4 you get an extra profficiency.
