@@ -7,8 +7,8 @@ The education can freely be chosen. The status determines the specifics of the e
 
 Educations:
 Fighter:
-stability:
-vitality:
+stability: 3
+vitality: 8
 attunement: 0
 dexterity: 5
 strength: 6
@@ -18,8 +18,8 @@ wisdom: 4
 constitution: 6
 
 Ranger:
-stability:
-vitality:
+stability: 2
+vitality: 8
 attunement: 0
 dexterity: 6
 strength: 5
@@ -29,8 +29,8 @@ wisdom: 4
 constitution: 6
 
 Clerk:
-stability:
-vitality:
+stability: 0
+vitality: 6
 attunement: 4
 dexterity: 4
 strength: 2
@@ -40,8 +40,8 @@ wisdom: 6
 constitution: 4
 
 Bard:
-stability:
-vitality:
+stability: 0
+vitality: 6
 attunement: 4
 dexterity: 4
 strength: 2

@@ -67,7 +67,7 @@ taking damage: when taking damage (unless stated otherwise) first subtract the d
 attack:
 The entity takes a dex check with the weapon dex bonus against the victim (if the entity is in melee and using a ranged weapon: take it at a dissadvantage):
 on a fail:
-	take a str check with the weapon str bonus at a disadvantage against the victim	on a fail: allocate 1d4 damage to the opponent.
+	take a str check with the weapon str bonus at a disadvantage against the victim	on a fail: you miss, nothing happens.
 	on a success: allocate 1d6 damage to the opponent.
 
 on a success:
