@@ -43,9 +43,9 @@ Bard:
 stability:
 vitality:
 attunement: 4
-dexterity: 6
+dexterity: 4
 strength: 2
-charisma: 4
+charisma: 6
 intelligence: 6
 wisdom: 4
 constitution: 4
@@ -97,3 +97,32 @@ bard:
 lvl1: gain the spell inspire and a +1 bonus when using stealth
 lvl2: gain the spells lesser heal, mockery
 lvl3: gain the spell fire ball
+
+proficiency: a proficiency gives a +2 bonus when using it, or +3 when it has been chosen twice.
+proficiencies are:
+acrobatics (dex)
+animal handling (wis)
+arcana (int)
+athletics (str)
+deception (cha)
+history (int)
+insight (wis)
+intimidation (cha)
+investigation (int)
+medicine (wis)
+nature (int)
+perception (wis)
+performance (cha)
+persuasion (cha)
+religion (int)
+sleight of hand (dex)
+stealth (dex)
+survival (wis)
+
+When creating a character: level up immediatly to level 1 and gain 2 proficiencies
+
+leveling up:
+throw a d6, this is how many points you get for leveling up, with one of such points you can increas
+vitality, attunement, dexterity, strength, charisma, intelligence, wisdom, constitution by one,
+for 2 points you can increase your stability by 1.
+Additionally: on level 2 and 4 you get an extra profficiency.
