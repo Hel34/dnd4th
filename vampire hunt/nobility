@@ -54,10 +54,9 @@ constitution: 4
 Special rules:
 Noble:
 Fighter:
-lvl1: gain +2 dex when using a melee attack
+lvl1: temporarily gain +2 dex when using a melee attack
 lvl2: every light weapon in use of the fighter gains parry: 1d10 damage
 lvl3: every medium weapon in use of the fighter gains parry: 2d6 damage
-
 
 ranger:
 lvl1: gain +2 dex when using a ranged attack

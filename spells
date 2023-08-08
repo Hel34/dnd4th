@@ -21,7 +21,7 @@ attunement: 2
 keywords: medicine(wis) dependent
 uses: 5
 casttime: action and bonus action, keep focus
-effects: heal (3+ medicine bonus)d4 vitality and (3+ medicine bonus) d8 position, the caster must be able to touch the body of the person being healed
+effects: heal (medicine bonus)d4 vitality and (3+ medicine bonus) d8 position, the caster must be able to touch the body of the person being healed
 and remain focused for 1 turn.
 
 lesser heal

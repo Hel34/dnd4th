@@ -9,6 +9,17 @@ it has no attunement cost.
 Otherwise (unless the rules of the gun contradicts them)
 the same rules as for spells apply.
 
+
+triple barrel flintlock light pistol
+usable by: everyone
+attunement: 2
+keywords: GUN
+uses: 15
+casttime: bonus action
+reach: 2m, 3m, 4m, 6m
+effects: deal 4d4 damage
+
+
 flintlock light pistol
 usable by: everyone
 attunement: 3
@@ -16,7 +27,8 @@ keywords: GUN
 uses: 6
 casttime: bonus action
 reach: 2m, 3m, 4m, 6m
-effects: deal 4d6 damage
+effects: deal 3d6 damage
+
 
 flintlock medium pistol
 usable by: everyone
@@ -34,7 +46,7 @@ keywords: GUN
 uses: 2
 casttime: action
 reach: 2m, 3m, 4m, 6m
-effects: deal 4d10 damage, this rifles damage does bleed over into vitality
+effects: deal 4d8 damage, this rifles damage does bleed over into vitality
 
 flintlock rifle
 usable by: everyone
@@ -43,4 +55,4 @@ keywords: GUN
 uses: 1
 casttime: action
 reach: 4m, 6m, 10m, 30m
-effects: deal 4d12 damage, this rifles damage does bleed over into vitality
+effects: deal 4d10 damage, this rifles damage does bleed over into vitality

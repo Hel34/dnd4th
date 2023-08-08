@@ -139,8 +139,8 @@ succes dice: 2d6
 extra: if the target has no shield, on a succesfull dex check, the damage always goes to vitality
 
 Harnassen:
-none: 0str needed, + dex bonus position
-light: 4str  needed, +dex bonus/2 (round down) (if positive) + 5 position
+none: 0str needed, + 2*dex bonus position
+light: 4str  needed, +dex bonus (round down) (if positive) + 5 position
 medium: 8str needed, +10 position
 heavy: 12str needed, +15 position, -2 dex
 extremely heavy: 16str needed, +20 position, -5 dex
