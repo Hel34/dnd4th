@@ -111,6 +111,7 @@ certain spell keywords:
 throwing spell, the caster must succeed a dex check for this spell to take effect
 <stat> dependent, the caster must take a <stat> check, on a fail or success the spell has different effects
 <stat> duel, make a <stat> check against the target
+multi-use, this spell can be active multiple times, for each time this spell is active it costs the attunement and gives uses
 
 Some spells require the caster to keep focus, a casters focus is broken when: they take vitality or position damage,
 they lost sight of their spell, doing no other action,...

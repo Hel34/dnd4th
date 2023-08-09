@@ -65,18 +65,18 @@ lvl2: gain a +1 bonus when returning to stealth from a stealth attack
 lvl3: gain a +1 bonus when parrying
 
 clerk:
-lvl1: gain the spells heal, magic hand and -2 dex, +2 char
+lvl1: gain -2 dex, +2 char
 lvl2: gain the spells lesser heal, light
 lvl3: gain the spells soul arrow, soul spear
 
 bard:
-lvl1: gain the spell inspire and -2 dex, +2 char
+lvl1: gain -2 dex, +2 char
 lvl2: gain the spells lesser heal, mockery
 lvl3: gain the spell fire ball
 
 
 
-poor:
+common:
 Fighter:
 lvl1: gain +2 str when using a melee attack
 lvl2: every light weapon does 1d4 more damage
@@ -89,12 +89,12 @@ lvl2: gain a +1 bonus when returning to stealth from a stealth attack
 lvl3: gain a +2 bonus when dodging
 
 clerk:
-lvl1: gain the spells heal, magic hand and a +1 bonus when using stealth
+lvl1: gain +1 bonus when using stealth
 lvl2: gain the spells lesser heal, light
 lvl3: gain the spells soul arrow, soul spear
 
 bard:
-lvl1: gain the spell inspire and a +1 bonus when using stealth
+lvl1: gain a +1 bonus when using stealth
 lvl2: gain the spells lesser heal, mockery
 lvl3: gain the spell fire ball
 
