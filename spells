@@ -18,10 +18,10 @@ effects: deal 3d4 vitality fire damage to an orb of enemies, the orb has a radiu
 heal
 usable by: elves
 attunement: 2
-keywords: none
+keywords: medicine(wis) dependent
 uses: 5
 casttime: action and bonus action, keep focus
-effects: heal 3d4 vitality and 3d8 position, the caster must be able to touch the body of the person being healed
+effects: heal (medicine bonus)d4 vitality and (3+ medicine bonus) d8 position, the caster must be able to touch the body of the person being healed
 and remain focused for 1 turn.
 
 lesser heal
@@ -36,11 +36,11 @@ and remain focused for 1 turn.
 inspire
 usable by: bards
 attunement: 1
-keywords: none
+keywords: cha dependent
 uses: 8
 casttime: bonus action
 effects: choose 1:
--boost +3 dex, str or int for someone within 8m for 15 minutes this spell cannot be cast on a target that is already under it's effect.
+-boost +cha bonus dex, str or int for someone within 8m for 15 minutes this spell cannot be cast on a target that is already under it's effect.
 -boost +10 position (this can go beyond the max position of the target this spell cannot be cast on a target that is already under it's effect.
 However, once lost the target's position won't go that high again)
 -re-roll 1 roll can be used out of turn)
@@ -50,17 +50,17 @@ usable by: wizards
 attunement: 1
 keywords: none
 uses: 5
-casttime: bonus action, keep focus
+casttime: (bonus) action, keep focus
 effects: gain a magic hand that can manipulate objects up to 10m, if the hand were to make an attack,
 -4 dex, -6 str for that attack.
 
 magic arrow
 usable by: wizards
 attunement: 1
-keywords: none
+keywords: arcana(int)
 uses: 15
 casttime: 1 bonus action
-effects: deal 1d8 damage to a target up to 20m away.
+effects: deal 1d8 + arcana bonus damage to a target up to 20m away.
 
 magic spear
 usable by: wizards
@@ -68,7 +68,7 @@ attunement: 2
 keywords: throwing spell
 uses: 5
 casttime: action
-effects: deal 3d8 damage to a target up to 30m away.
+effects: deal 3d8 + arcana bonus damage to a target up to 30m away.
 
 mockery
 usable by: bard

@@ -41,16 +41,18 @@ Taking an ability check at a disadvantage: a rule may say that you can take an a
 
 resting:
 players may rest along their travels:
-a short rest may be taking when they're out in the open and there's no proper sleeping place, this gives them 1d4 hp, 2d4 energy, all their position and all their spell uses back
+a short rest may be taking when they're out in the open and there's no proper sleeping place, this gives them 1d4 hp, all their position and all their spell uses back
 a long rest can be taken when they have a proper resting place, all hp, energy, position and spell  uses are given back
 
 STATES OF MIND:
 Sometimes a person will be a special state of mind, this will have effects on things like performance. These effects are described here.
 
+angel, kathy, vampire, rik, george
+
 COMBAT:
 As combat often has a big role in campaigns, it has it own rules.
 In combat, every entity engaged in combat takes turns moving and doing an action.
-The order is determined at the start of combat:
+The order is determined at th e start of combat:
 in case of a frontal attack: everyone takes a dex ability check, the highest result goes first in, the lowest last, in case of a tie between two players they can choose which one goes first, in case of a tie between a player and an enemy the player goes first, in case of a tie between two enemies, the ones with the highest dex goes first (if there still is a tie, the dm can decide the order).
 in case of a surprise attack: everyone takes an int ability check, entities that get surprised take it at a disadvantage, the highest result goes first in, the lowest last, in case of a tie between two players they can choose which one goes first, in case of a tie between a player and an enemy the player goes first, in case of a tie between two enemies, the ones with the highest dex goes first (if there still is a tie, the dm can decide the order).
 in combat, everyone gets an action, bonus action and reaction:
@@ -67,11 +69,11 @@ taking damage: when taking damage (unless stated otherwise) first subtract the d
 attack:
 The entity takes a dex check with the weapon dex bonus against the victim (if the entity is in melee and using a ranged weapon: take it at a dissadvantage):
 on a fail:
-	take a str check with the weapon str bonus at a disadvantage against the victim	on a fail: you miss, nothing happens.
+	take a athletics(str) check with the weapon str bonus at a disadvantage against the victim	on a fail: you miss, nothing happens.
 	on a success: allocate 1d6 damage to the opponent.
 
 on a success:
-	take a str check with the weapon str bonus (DC 13):
+	take a athletics(str) check with the weapon str bonus (DC 13):
 	on a fail: allocate failure dice damage to the opponent.
 	on a success: allocate success dice damage to the opponent.
 	(success and failure dice are determined by the weapon used)
@@ -85,10 +87,10 @@ take a dex check, on a failure, take a normal attack, on a success, take an atta
 
 sneak attack:
 when hidden an entity may use a sneak attack, to do this,
-take a dex  check with the weapon dex bonus (against the opponents int):
-	on a fail: proceed with the str check of normal attack
+take dex check with the weapon dex bonus (against the opponents int):
+	on a fail: proceed with the athletics (str) check of normal attack
 	on a success: allocate 2d6 damage to the opponent's vitality.
-take a dex check against the enemies int (at a disadvantage if the target entity was clearly visible to other entities of the same group, at an advantage if the target was isolated),
+take a stealth (dex) check against the enemies preseption(int) (at a disadvantage if the target entity was clearly visible to other entities of the same group, at an advantage if the target was isolated),
 on a fail: the entity is now in melee with the target
 on a success: the entity is hidden again
 
